@@ -1,4 +1,4 @@
-# network fundamentals Part 1 - TryHackMe
+# Network Fundamentals Part 1 - TryHackMe
 
 **Date:** 4/26/2026
 
