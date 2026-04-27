@@ -1,4 +1,4 @@
-# Network Fundamentals Part 1 — TryHackMe
+# network fundamentals Part 1 — TryHackMe
 
 **Date:** 4/26/2026
 **Path:** Pre-Security
