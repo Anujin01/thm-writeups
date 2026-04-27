@@ -1,10 +1,10 @@
-# network fundamentals Part 1 — TryHackMe
+# network fundamentals Part 1 - TryHackMe
 
 **Date:** 4/26/2026
 **Path:** Pre-Security
 
 ## What This Room Covered
-Extending your network — introduction to port forwarding, firewalls, vpn basics, LAN networking devices
+Extending your network - introduction to port forwarding, firewalls, vpn basics, LAN networking devices
 
 ## Terms i learned
 firewall - security guard, monitors ingoing and outgoing traffics based on predefined rules
