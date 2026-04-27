@@ -1,6 +1,7 @@
 # network fundamentals Part 1 - TryHackMe
 
 **Date:** 4/26/2026
+
 **Path:** Pre-Security
 
 ## What This Room Covered
@@ -8,9 +9,13 @@ Extending your network - introduction to port forwarding, firewalls, vpn basics,
 
 ## Terms i learned
 firewall - security guard, monitors ingoing and outgoing traffics based on predefined rules
+
 router - traffic controlled usen in WAN
+
 switch - internal connector used in LAN
+
 vpn - secure tunnel 
+
 ports forwarding - specific rule on router
 
 ## What Actually Clicked
