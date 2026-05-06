@@ -13,7 +13,7 @@ pre-security/
 ├── dns_how_web_works.md         # DNS records, domain hierarchy, how browsers resolve names
 ├── extending_your_network.md    # Port forwarding, firewalls, VPNs, LAN devices
 ├── http_in_detail.md            # HTTP basics and status codes in detail
-├── 
+├── how_websites_work.md         # Vulneraility in HTML 
 ├── 
 
  
@@ -28,6 +28,8 @@ pre-security/
 | [dns-in-detail.md](./dns-in-detail.md) | Apr 27, 2026 | ✅ Done |
 | [entending-our-network.md](./entending-our-network.md) | Apr 26, 2026 | ✅ Done |
 | [http_in_detail.md](./http_in_detail.md ) | May 3, 2026 | ✅ Done |
+| [how_websites_work.md](./how_websites_work.md ) | May 6, 2026 | ✅ Done |
+
 
 
 ---
