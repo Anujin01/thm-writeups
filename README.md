@@ -30,7 +30,7 @@ pre-security/
 | [entending-our-network.md](./entending-our-network.md) | Apr 26, 2026 | ✅ Done |
 | [http_in_detail.md](./http_in_detail.md ) | May 3, 2026 | ✅ Done |
 | [how_websites_work.md](./how_websites_work.md ) | May 6, 2026 | ✅ Done |
-| [inside_computer_system.md](./inside_computer_system.md) | May 6, 2026 | ✅ Done |
+| [inside_computer_system.md](./inside_computer_system.md) | May 7, 2026 | ✅ Done |
 
 
 
