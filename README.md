@@ -13,9 +13,9 @@ pre-security/
 ├── dns_how_web_works.md         # DNS records, domain hierarchy, how browsers resolve names
 ├── extending_your_network.md    # Port forwarding, firewalls, VPNs, LAN devices
 ├── http_in_detail.md            # HTTP basics and status codes in detail
-├── how_websites_work.md         # Vulneraility in HTML 
+├── how_websites_work.md         # Vulnerability in HTML 
 ├── inside_computer_system.md    # Computer fundamentals 
-├──
+├──virtualization_basics.md      # basics of virtualization
 
  
 ```
@@ -31,10 +31,11 @@ pre-security/
 | [http_in_detail.md](./http_in_detail.md ) | May 3, 2026 | ✅ Done |
 | [how_websites_work.md](./how_websites_work.md ) | May 6, 2026 | ✅ Done |
 | [inside_computer_system.md](./inside_computer_system.md) | May 7, 2026 | ✅ Done |
+| [virtualization_basics.md](./virtualization_basics.md) | May 10, 2026 | ✅ Done |
 
 
 
----
+-
 
 ## 🎯 Goal
 
