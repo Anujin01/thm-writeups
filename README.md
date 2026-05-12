@@ -37,9 +37,7 @@ pre-security/
 | [Operating_Systems_Introduction.md](./Operating_Systems_Introduction.md) | May 11, 2026 | ✅ Done |
 | [operating_system_basics.md](./operating_system_basics.md) | May 12, 2026 | ✅ Done |
 
-
-
--
+---
 
 ## 🎯 Goal
 
