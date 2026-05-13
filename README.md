@@ -18,6 +18,7 @@ pre-security/
 ├──virtualization_basics.md              # basics of virtualization
 ├──Operating_Systems_Introduction.md     # operating system fundamentals
 ├──operating_system_basics.md            # CLI comparison
+├──data_representation.md                # understanding numbers in computer
 
  
 ```
@@ -36,6 +37,7 @@ pre-security/
 | [virtualization_basics.md](./virtualization_basics.md) | May 10, 2026 | ✅ Done |
 | [Operating_Systems_Introduction.md](./Operating_Systems_Introduction.md) | May 11, 2026 | ✅ Done |
 | [operating_system_basics.md](./operating_system_basics.md) | May 12, 2026 | ✅ Done |
+| [data_representation.md](./data_representation.md) | May 13, 2026 | ✅ Done |
 
 ---
 
