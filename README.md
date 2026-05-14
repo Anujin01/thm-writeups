@@ -23,17 +23,17 @@ thm-writeups/
 ## 📈 Progress
 
 | Room | Date | Status |
-|---|---|---|
-| [dns-in-detail.md](./dns-in-detail.md) | Apr 27, 2026 | ✅ Done |
-| [entending-our-network.md](./entending-our-network.md) | Apr 26, 2026 | ✅ Done |
-| [http_in_detail.md](./http_in_detail.md ) | May 3, 2026 | ✅ Done |
-| [how_websites_work.md](./how_websites_work.md ) | May 6, 2026 | ✅ Done |
-| [inside_computer_system.md](./inside_computer_system.md) | May 7, 2026 | ✅ Done |
-| [virtualization_basics.md](./virtualization_basics.md) | May 10, 2026 | ✅ Done |
-| [Operating_Systems_Introduction.md](./Operating_Systems_Introduction.md) | May 11, 2026 | ✅ Done |
-| [operating_system_basics.md](./operating_system_basics.md) | May 12, 2026 | ✅ Done |
-| [data_representation.md](./data_representation.md) | May 13, 2026 | ✅ Done |
-| [python_simpledemo.md](./python_simpledemo.md) | May 14, 2026 | ✅ Done |
+| :--- | :--- | :--- |
+| [DNS in Detail](./Network_Fundamentals/dns-in-detail.md) | Apr 27, 2026 | ✅ Done |
+| [Extending Our Network](./Network_Fundamentals/entending-our-network.md) | Apr 26, 2026 | ✅ Done |
+| [HTTP in Detail](./Network_Fundamentals/http_in_detail.md) | May 3, 2026 | ✅ Done |
+| [How Websites Work](./how_the_web_works/how_websites_work.md) | May 6, 2026 | ✅ Done |
+| [Inside a Computer System](./Computer_Fundamentals/inside_computer_system.md) | May 7, 2026 | ✅ Done |
+| [Virtualization Basics](./Computer_Fundamentals/virtualization_basics.md) | May 10, 2026 | ✅ Done |
+| [Operating Systems Introduction](./OS_Basics/Operating_Systems_Introduction.md) | May 11, 2026 | ✅ Done |
+| [Operating System Basics](./OS_Basics/operating_system_basics.md) | May 12, 2026 | ✅ Done |
+| [Data Representation](./data_representation.md) | May 13, 2026 | ✅ Done |
+| [Python Simple Demo](./Software_Basics/python_simpledemo.md) | May 14, 2026 | ✅ Done |
 
 ---
 
