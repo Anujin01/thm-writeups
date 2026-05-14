@@ -25,7 +25,7 @@ thm-writeups/
 | Room | Date | Status |
 | :--- | :--- | :--- |
 | [DNS in Detail](./Network_Fundamentals/dns-in-detail.md) | Apr 27, 2026 | ✅ Done |
-| [Extending Our Network](./Network_Fundamentals/entending-our-network.md) | Apr 26, 2026 | ✅ Done |
+| [Extending Our Network](./Network_Fundamentals/extending-our-network.md) | Apr 26, 2026 | ✅ Done |
 | [HTTP in Detail](./Network_Fundamentals/http_in_detail.md) | May 3, 2026 | ✅ Done |
 | [How Websites Work](./how_the_web_works/how_websites_work.md) | May 6, 2026 | ✅ Done |
 | [Inside a Computer System](./Computer_Fundamentals/inside_computer_system.md) | May 7, 2026 | ✅ Done |
