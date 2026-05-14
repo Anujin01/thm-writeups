@@ -19,4 +19,7 @@ In this room, I learned basic python commands for guess the number game.
 I realized that using reusable blocks of code for specific tasks will be incredibly helpful once I become more fluent in the language. 
 Python’s efficiency relies heavily on these modular components.
 
+### Check out the full script here:
+...
+
 
