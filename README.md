@@ -19,6 +19,7 @@ pre-security/
 ├──Operating_Systems_Introduction.md     # operating system fundamentals
 ├──operating_system_basics.md            # CLI comparison
 ├──data_representation.md                # understanding numbers in computer
+├──python_simpledemo.md                  # using basic python code to create guessing game
 
  
 ```
@@ -38,6 +39,7 @@ pre-security/
 | [Operating_Systems_Introduction.md](./Operating_Systems_Introduction.md) | May 11, 2026 | ✅ Done |
 | [operating_system_basics.md](./operating_system_basics.md) | May 12, 2026 | ✅ Done |
 | [data_representation.md](./data_representation.md) | May 13, 2026 | ✅ Done |
+| [python_simpledemo.md](./python_simpledemo.md) | May 14, 2026 | ✅ Done |
 
 ---
 
