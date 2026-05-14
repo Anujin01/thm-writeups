@@ -8,21 +8,15 @@ Each file covers what I learned, key terms, and things that confused me (and how
 ## 📁 Repository Structure
 
 ```
-pre-security/
-├── README.md
-├── dns_how_web_works.md                 # DNS records, domain hierarchy, how browsers resolve names
-├── extending_your_network.md            # Port forwarding, firewalls, VPNs, LAN devices
-├── http_in_detail.md                    # HTTP basics and status codes in detail
-├── how_websites_work.md                 # Vulnerability in HTML 
-├── inside_computer_system.md            # Computer fundamentals 
-├──virtualization_basics.md              # basics of virtualization
-├──Operating_Systems_Introduction.md     # operating system fundamentals
-├──operating_system_basics.md            # CLI comparison
-├──data_representation.md                # understanding numbers in computer
-├──python_simpledemo.md                  # using basic python code to create guessing game
+thm-writeups/
+├── Network_Fundamentals/       # DNS, HTTP, and Networking protocols
+├── how_the_web_works/          # Web structure and vulnerabilities
+├── Computer_Fundamentals/      # Hardware, BIOS, and Virtualization
+├── OS_Basics/                  # Linux vs Windows and CLI basics
+├── Software_Basics/            # Introduction to Python and Scripting
 
- 
-```
+
+ ```
 
 ---
 
