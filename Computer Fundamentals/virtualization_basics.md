@@ -1,4 +1,4 @@
-# Computer Fundamentals - TryHackMe# Computer Fundamentals - TryHackMe
+# Computer Fundamentals - TryHackMe
 
 **Date:** 5/10/2026
 
