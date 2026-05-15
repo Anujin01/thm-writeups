@@ -32,7 +32,7 @@ thm-writeups/
 | [Virtualization Basics](./Computer_Fundamentals/virtualization_basics.md) | May 10, 2026 | ✅ Done |
 | [Operating Systems Introduction](./OS_Basics/Operating_Systems_Introduction.md) | May 11, 2026 | ✅ Done |
 | [Operating System Basics](./OS_Basics/operating_system_basics.md) | May 12, 2026 | ✅ Done |
-| [Data Representation]./(Software_Basics/data_representation.md) | May 13, 2026 | ✅ Done |
+| [Data Representation](./Software_Basics/data_representation.md) | May 13, 2026 | ✅ Done |
 | [Python Simple Demo](./Software_Basics/python_demos/python_simpledemo.md) | May 14, 2026 | ✅ Done |
 
 ---
