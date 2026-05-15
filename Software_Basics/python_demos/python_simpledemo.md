@@ -21,5 +21,5 @@ Python’s efficiency relies heavily on these modular components.
 
 ### Check out the full script here:
 
-[Guess_the_number_game](./Software_Basics/python_demos/guess_the_number.py)
+[Guess_the_number_game](Software_Basics/python_demos/guess_the_number.py)
 
