@@ -34,6 +34,8 @@ thm-writeups/
 | [Operating System Basics](./OS_Basics/operating_system_basics.md) | May 12, 2026 | ✅ Done |
 | [Data Representation](./Software_Basics/data_representation.md) | May 13, 2026 | ✅ Done |
 | [Python Simple Demo](./Software_Basics/python_demos/python_simpledemo.md) | May 14, 2026 | ✅ Done |
+| [Javascript simple Demo](./Software_Basics/Java_script/Java_script_demo.md) | May 18, 2026 | ✅ Done |
+
 
 ---
 
