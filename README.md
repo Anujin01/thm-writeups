@@ -14,6 +14,7 @@ thm-writeups/
 ├── Computer_Fundamentals/      # Hardware, BIOS, and Virtualization
 ├── OS_Basics/                  # Linux vs Windows and CLI basics
 ├── Software_Basics/            # Introduction to Python and Scripting
+├── Cybersecurity101/           # Tools i have learned
 
 
  ```
@@ -36,6 +37,7 @@ thm-writeups/
 | [Python Simple Demo](./Software_Basics/python_demos/python_simpledemo.md) | May 14, 2026 | ✅ Done |
 | [Javascript simple Demo](./Software_Basics/Java_script/Java_script_demo.md) | May 18, 2026 | ✅ Done |
 | [DataBase_SQL_basics](Software_Basics/SQL_basics.md) | May 20, 2026 | ✅ Done |
+| [Security_Tools](cybersecurity_101/search_skill.md) | May 21, 2026 | ✅ Done |
 
 
 ---
