@@ -6,8 +6,8 @@ A structured summary of core networking protocols, command-line diagnostic tools
 
 ## 🛰️ Network Addressing & Resolution
 
-* **DHCP (Dynamic Host Configuration Protocol)** — Automatically assigns IP addresses, subnet masks, default gateways, and DNS settings to devices on a network.
-* **ARP (Address Resolution Protocol)** — Resolves IPv4 addresses to physical MAC addresses on a local area network (LAN).
+* **DHCP (Dynamic Host Configuration Protocol)** - Automatically assigns IP addresses, subnet masks, default gateways, and DNS settings to devices on a network.
+* **ARP (Address Resolution Protocol)** - Resolves IPv4 addresses to physical MAC addresses on a local area network (LAN).
 
 ### Packet Capture Examples (ARP)
 
